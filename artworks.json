@@ -1,0 +1,26 @@
+[
+  {
+    "id": "890bd840-6fe4-4b98-971e-af77547c13b4",
+    "name": "charan",
+    "title": "cafjak",
+    "description": "sdgj",
+    "image": "artworks/legacy-890bd840-6fe4-4b98-971e-af77547c13b4.png",
+    "createdAt": "2026-10-07T07:06:05.976Z"
+  },
+  {
+    "id": "0f3bad6a-8590-4dc3-b079-05de3336755c",
+    "name": "charan",
+    "title": "testing 2",
+    "description": "testing",
+    "image": "artworks/legacy-0f3bad6a-8590-4dc3-b079-05de3336755c.png",
+    "createdAt": "2026-10-07T06:43:11.494Z"
+  },
+  {
+    "id": "df9303c6-67d1-42e3-b50d-f44620abcde5",
+    "name": "charan",
+    "title": "testing",
+    "description": "magic",
+    "image": "artworks/legacy-df9303c6-67d1-42e3-b50d-f44620abcde5.png",
+    "createdAt": "2026-10-07T06:42:19.124Z"
+  }
+]
